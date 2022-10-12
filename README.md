@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data and knowledge engineering
 - 💞️ I’m looking to collaborate on new projects and acheivements 
 - 📫 you can find me in :
-Linkdin : http://www.linkedin.com/in/rajaa-tifarouine-99b6a1199
+Linkedin : http://www.linkedin.com/in/rajaa-tifarouine-99b6a1199
 Email : tifarouinerajaa@gmail.com
 
 <!---
